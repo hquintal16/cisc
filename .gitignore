@@ -1,0 +1,27 @@
+
+# Data and generated outputs
+data/
+figures/
+logs/
+
+# Job logs
+*.out
+*.err
+*.log
+
+# R session files
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary and local files
+.DS_Store
+*.tmp
+*.bak
+.env
